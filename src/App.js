@@ -5,7 +5,7 @@ import Recipe from "./components/Recipe";
 function App() {
   const APP_ID = "39113ea8";
   const APP_KEY = "4a09bd184a2abefd17b8cec3ba522492";
-  let searchWord = "";
+  // let searchWord = "";
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState("");
