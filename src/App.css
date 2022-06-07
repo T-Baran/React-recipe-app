@@ -1,7 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
 .App {
   min-height: 100vh;
-  background-image: linear-gradient(90deg, #d4fc79 0%, #96e6a1 100%);
+  background-image: linear-gradient(90deg, #f3eec3 0%, #f7e3af 100%);
   width: 100vw;
   font-family: "Outfit", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #364958;
 }
